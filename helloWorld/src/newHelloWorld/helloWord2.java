@@ -6,6 +6,7 @@ public class helloWord2 {
 		// TODO Auto-generated method stub
 System.out.println("hello world 2");
 		System.out.println("edited in github");
+		System.out.println("push it to new branch dummy");
 	}
 
 }
